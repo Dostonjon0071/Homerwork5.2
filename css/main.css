@@ -1,0 +1,104 @@
+.logo{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    
+}
+nav{
+    width: 420px;
+    height: 50px;
+    border: 1px solid;
+    padding: 2px 2px 2px 10px;
+    margin: 10px 10px 10px 600px;
+    border-color:white ;
+
+}
+.Items{
+    
+    display: inline-block;
+    padding: 10px;
+}
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.Virtual{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    /* padding: 10000px; */
+}
+h2{
+    padding: 227px 820px 2px 240px;
+}
+h5{
+    padding: 2px 802px 10px 240px;
+}
+button{
+    border: 1px solid;
+    border-color: blue;
+    border-radius: 15px 15px 15px 15px   ;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+margin: 0px 10px;
+}
+.service_wrapper{
+    margin-bottom: 100px;
+}
+.Title{
+font-weight: 700;
+font-size: 36px;
+line-height: 56px;
+color: #000000;
+text-align: center;
+
+}
+.hr_service{
+width: 56px;
+height: 2px;
+left: 772px;
+top: 1049px;
+background: #000000;
+border-radius: 5px;
+margin: 26px 0 33px 50%;
+}
+.servic_text{
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+text-align: center;
+color: #7D7987;
+}
+.service_list{
+    list-style-type: none;
+    margin-top: 69px;
+}
+.servic_item{
+    width: 350px;
+    height: 354px;
+    padding: 54px;
+}
+.item{
+    display: inline-block;
+}
+.servic_link{
+    border: 1.4px solid #458FF6;
+border-radius: 55px;
+text-align: center;
+padding: 2px 51px;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 60px;
+color: #458FF6;
+mix-blend-mode: normal;
+}
+.providers{
+    display: inline-block;
+border-left: 800px ;
+width: 300px;
+height: 200px;
+
+}
